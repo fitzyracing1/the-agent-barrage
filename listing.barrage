@@ -1,0 +1,40 @@
+# The Agent
+
+> Public face and documentation for the Base44 Superagent.
+
+## Purpose
+Explain this repo as the public door to the Superagent, not the full private hub. Source: fitzyracing1/the-agent.
+
+## How it works (plain English)
+1. Open the public page.
+2. Read what the Superagent is.
+3. Follow links to the app or skill if you need the running piece.
+
+## Key ideas
+- Public face (docs and page)
+- Superagent (the named Base44 agent)
+- Documentation (words first, code second)
+
+## The actual code
+```
+# source: fitzyracing1/the-agent
+show_public_face()
+point_to_superagent()
+```
+
+## Line-by-line translation
+1. show_public_face() → “open the docs page”
+2. point_to_superagent() → “send readers to the agent itself”
+
+## Decisions the program makes
+- If a visitor wants the story → stay here
+- If a visitor wants the running agent → send them onward
+
+## What a person would notice
+A public sign in front of the agent.
+
+## Current status
+Barrage clone.
+
+## Next possible steps
+Open the HTML in fitzyracing1/the-agent.

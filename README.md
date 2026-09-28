@@ -1,2 +1,5 @@
 # the-agent-barrage
-Barrage plain-language clone of fitzyracing1/the-agent
+
+Barrage clone of [fitzyracing1/the-agent](https://github.com/fitzyracing1/the-agent).
+
+Read [listing.barrage](listing.barrage).
